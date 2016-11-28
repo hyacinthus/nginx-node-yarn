@@ -1,2 +1,2 @@
 # nginx-node-yarn
-nginx + nodejs + yarn base docker image
+nginx + nodejs + yarn + webpack within alpine docker image
